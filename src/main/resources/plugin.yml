@@ -1,0 +1,13 @@
+name: DuelsPlugin
+main: me.spixa.duels_plugin.Duels_plugin
+api-version: 1.16
+authors: [ Spixa ]
+version: 1.0
+description: Plugin for Duels!
+commands:
+  duel:
+    description: Duels Plugin
+    usage: /<command>
+  mkarena:
+    description: Makes a new arena
+    usage: /<command>
